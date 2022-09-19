@@ -1,19 +1,18 @@
 .title {
-    color: #f8dfff;
-    margin: 0;
-    padding: 1rem;
-    text-align: center;
-    background-color: #40005d;
-    
+  color: #f8dfff;
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+  background-color: #40005d;
 }
 .para {
-    display: flex;
-    color: white ;
-    border: 1px solid #a892ee;
-    width: auto;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 1rem;
-    background-color: #a792ee52;
+  display: flex;
+  z-index: -1;
+  color: white;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 1rem;
+  background-color: #a792ee52;
 }
